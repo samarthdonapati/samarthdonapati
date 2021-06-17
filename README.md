@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sam 
+- 👋 Hi, I’m @friedchickenpatty
 - 👀 I’m interested in ... coding, ai and more
 - 🌱 I’m currently learning ... python 3 
 - 💞️ I’m looking to collaborate on ... nothing 
